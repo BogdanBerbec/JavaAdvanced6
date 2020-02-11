@@ -1,7 +1,7 @@
 public class Exerctii3 {
 
     public static void main(String[] args) {
-        int a = 19;
+        int a = 21;
         int b = 0;
         try {
             System.out.println(divide(a, b));
